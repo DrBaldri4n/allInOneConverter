@@ -54,6 +54,9 @@ def main(args):
     if opt == "--img":
         imageMagick(args[1:])
         sys.exit()
-        
+
 if __name__ == "__main__":
    main(sys.argv[1:])
+
+#TODO add README
+#TODO add automat installation for pdfunite, ffmpeg ...
