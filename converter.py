@@ -58,5 +58,5 @@ def main(args):
 if __name__ == "__main__":
    main(sys.argv[1:])
 
-#TODO add README
+
 #TODO add automat installation for pdfunite, ffmpeg ...
